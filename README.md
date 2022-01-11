@@ -4,6 +4,3 @@
 <img src="{{ "./Welcome to Aron’s GitHub Pages _ apollner.github.io.gif"  | prepend: site.url}}" alt="Alt Tex" />
 
 
-
-
-<img src="{{site.baseurl | prepend: site.url}}./Welcome to Aron’s GitHub Pages _ apollner.github.io.gif" alt="Alt Tex" />
