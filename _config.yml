@@ -1,5 +1,8 @@
 theme: jekyll-theme-cayman
 url: 'https://apollner.github.io/'
-baseurl:''
+
+baseurl: 'https://apollner.github.io/'
+
+theme: jekyll-theme-hacker
 markdown: GFM
 description: Bookmark this to keep an eye on my project updates!
