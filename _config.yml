@@ -1,7 +1,10 @@
 
 url: 'https://apollner.github.io/'
 
-
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
 theme: jekyll-theme-cayman
 markdown: GFM
 description: Bookmark this to keep an eye on my project updates!
