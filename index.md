@@ -26,7 +26,6 @@ All the FBI data is available [here](https://crime-data-explorer.fr.cloud.gov/pa
 
 
 
-## 3)
-## leaf disease classifier
+## 3) ## Leaf disease classifier
 [This](https://share.streamlit.io/apollner/streamlit_plant_disease_app/main/plant_disease_classification.py)  is a leaf disease classifier/predictor
 ![Alt Text](images/Streamlit.gif)
