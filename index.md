@@ -1,4 +1,4 @@
-This are the projeccts:
+These are some of my projeccts:
 ### Table of Contents
 1. [FBI crime data analysis](#FBI-crime-data-analysis)
 2. [Kinneret water vs cl levels](#Kinneret-water-vs-cl-levels)
