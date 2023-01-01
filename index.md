@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## FBI crime data analysis
 <p align="center">
