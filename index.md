@@ -1,5 +1,6 @@
 These are some of my projects:
 ### Table of Contents
+\{{TOC}}
 1. [FBI crime data analysis](#FBI-crime-data-analysis)
 2. [Kinneret water vs cl levels](#Kinneret-water-vs-cl-levels)
 3. [Leaf disease classifier](#Leaf-disease-classifier)
