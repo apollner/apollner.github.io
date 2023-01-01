@@ -21,11 +21,11 @@ All the FBI data is available [here](https://crime-data-explorer.fr.cloud.gov/pa
 
 
 ## Kinneret water vs cl levels<a name="Kinneret water vs cl levels"></a>
-[This](https://apollner-kinneret-water-kinneret-umvoo0.streamlitapp.com/) is an EDA of the water level and Cl level of lake Kinneret 
+[This](https://apollner-kinneret-water-kinneret-umvoo0.streamlitapp.com/) is an EDA of the water level and Cl level of lake Kinneret hosted on streamlit
 ![Alt Text](images/streamlit-kinneret-2022-08-29-15-08-06.gif)
 
 
 
 ## Leaf disease classifier
-[This](https://share.streamlit.io/apollner/streamlit_plant_disease_app/main/plant_disease_classification.py)  is a leaf disease classifier/predictor
+[This](https://share.streamlit.io/apollner/streamlit_plant_disease_app/main/plant_disease_classification.py) is a leaf disease classifier/predictor hosted on streamlit
 ![Alt Text](images/Streamlit.gif)
