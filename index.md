@@ -13,8 +13,7 @@ The state I chose was North Dakota (2021) because it was one of the states with 
 ![Alt Text](images/nibrs_pop_coverage_map_2021.png)
 All the FBI data is available [here](https://crime-data-explorer.fr.cloud.gov/pages/downloads)
 
-#### This is an EDA of the water level and Cl level of lake Kinneret 
-[HERE](https://apollner-kinneret-water-kinneret-umvoo0.streamlitapp.com/)
+#### [This](https://apollner-kinneret-water-kinneret-umvoo0.streamlitapp.com/) is an EDA of the water level and Cl level of lake Kinneret 
 ![Alt Text](images/streamlit-kinneret-2022-08-29-15-08-06.gif)
 
 #### This is a leaf disease classifier/predictor
