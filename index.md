@@ -1,6 +1,10 @@
-This
+This are the projeccts:
+### Table of Contents
+1. [FBI crime data analysis](#FBI-crime-data-analysis)
+2. [Kinneret water vs cl levels](#Kinneret-water-vs-cl-levels)
+3. [Leaf disease classifier](#Leaf-disease-classifier)
 
-### FBI crime data analysis
+## FBI crime data analysis
 <p align="center">
 <img src="images/FBI.png" alt="drawing" width="200"/>
 </p>
@@ -16,10 +20,12 @@ All the FBI data is available [here](https://crime-data-explorer.fr.cloud.gov/pa
 
 
 
-### [This](https://apollner-kinneret-water-kinneret-umvoo0.streamlitapp.com/) is an EDA of the water level and Cl level of lake Kinneret 
+## Kinneret water vs cl levels
+[This](https://apollner-kinneret-water-kinneret-umvoo0.streamlitapp.com/) is an EDA of the water level and Cl level of lake Kinneret 
 ![Alt Text](images/streamlit-kinneret-2022-08-29-15-08-06.gif)
 
 
 
-### [This](https://share.streamlit.io/apollner/streamlit_plant_disease_app/main/plant_disease_classification.py)  is a leaf disease classifier/predictor
+## Leaf disease classifier
+[This](https://share.streamlit.io/apollner/streamlit_plant_disease_app/main/plant_disease_classification.py)  is a leaf disease classifier/predictor
 ![Alt Text](images/Streamlit.gif)
