@@ -1,6 +1,6 @@
-## Welcome to Aron's GitHub Pages
+# Welcome to Aron's GitHub Pages
 
-# FBI crime data analysis
+## FBI crime data analysis
 <p align="center">
 <img src="FBI.png" alt="drawing" width="200"/>
 </p>
