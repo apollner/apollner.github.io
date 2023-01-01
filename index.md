@@ -1,5 +1,4 @@
-
-## FBI crime data analysis
+# FBI crime data analysis
 <p align="center">
 <img src="images/FBI.png" alt="drawing" width="200"/>
 </p>
