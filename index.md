@@ -2,8 +2,6 @@
 <p align="center">
 <img src="images/FBI.png" alt="drawing" width="200"/>
 </p>
-   
-
 [This project](https://github.com/apollner/apollner.github.io/blob/main/FBI%20project/predicting-age-and-race-of-offender-nd-2021.ipynb) aims to analyze the FBI NIBRS (National Incident-Based Reporting System) data, and make predictions using **Machine Learning** models. The NIBRS is the way the FBI is currently asking police agencies across the US to report crime data in their jurisdictions. This is coming to replace the traditional Summary Reporting System (SRS) in which the data from crimes was aggregated and so details of crimes were not recorded.
 NIBRS includes details on each single crime incident—as well as on separate offenses within the same incident—including information on victims, known offenders, relationships between victims and offenders, arrestees, and property involved in crimes.
 
