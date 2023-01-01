@@ -2,7 +2,7 @@ These are some of my projects:
 ### Table of Contents
 1. [FBI crime data analysis](#FBI-crime-data-analysis)
 2. [Kinneret water vs cl levels](#Kinneret-water-vs-cl-levels)
-3. [Leaf disease classifier](#leaf-disease-classifier)
+3. [Leaf disease classifier](#3)
 
 ## FBI crime data analysis
 <p align="center">
@@ -26,6 +26,7 @@ All the FBI data is available [here](https://crime-data-explorer.fr.cloud.gov/pa
 
 
 
+## 3)
 ## leaf disease classifier
 [This](https://share.streamlit.io/apollner/streamlit_plant_disease_app/main/plant_disease_classification.py)  is a leaf disease classifier/predictor
 ![Alt Text](images/Streamlit.gif)
