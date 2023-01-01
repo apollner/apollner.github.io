@@ -1,4 +1,4 @@
-# Welcome to Aron's [GitHub Pages](https://apollner.github.io/)
+# [GitHub Pages](https://apollner.github.io/)
 
 ## FBI crime data analysis
 <p align="center">
